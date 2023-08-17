@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24351" started-at="2023-08-15T16:42:48Z" finished-at="2023-08-15T16:43:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24351" started-at="2023-08-15T16:42:48Z" finished-at="2023-08-15T16:43:12Z">
+      <class name="org.amazon.AmazzonTesting">
+        <test-method status="PASS" signature="initializebrowser()[pri:1, instance:org.amazon.AmazzonTesting@369f73a2]" name="initializebrowser" duration-ms="16561" started-at="2023-08-15T16:42:48Z" finished-at="2023-08-15T16:43:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializebrowser -->
+        <test-method status="PASS" signature="searchProduct()[pri:2, instance:org.amazon.AmazzonTesting@369f73a2]" name="searchProduct" duration-ms="4542" started-at="2023-08-15T16:43:04Z" finished-at="2023-08-15T16:43:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="phoneSearch()[pri:3, instance:org.amazon.AmazzonTesting@369f73a2]" name="phoneSearch" duration-ms="3061" started-at="2023-08-15T16:43:09Z" finished-at="2023-08-15T16:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phoneSearch -->
+        <test-method status="PASS" signature="switchingWindow()[pri:4, instance:org.amazon.AmazzonTesting@369f73a2]" name="switchingWindow" duration-ms="19" started-at="2023-08-15T16:43:12Z" finished-at="2023-08-15T16:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchingWindow -->
+        <test-method status="PASS" signature="addingToCart()[pri:5, instance:org.amazon.AmazzonTesting@369f73a2]" name="addingToCart" duration-ms="22" started-at="2023-08-15T16:43:12Z" finished-at="2023-08-15T16:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingToCart -->
+        <test-method status="PASS" signature="cartbutton()[pri:6, instance:org.amazon.AmazzonTesting@369f73a2]" name="cartbutton" duration-ms="40" started-at="2023-08-15T16:43:12Z" finished-at="2023-08-15T16:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartbutton -->
+        <test-method status="PASS" signature="deleteOrder()[pri:7, instance:org.amazon.AmazzonTesting@369f73a2]" name="deleteOrder" duration-ms="26" started-at="2023-08-15T16:43:12Z" finished-at="2023-08-15T16:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOrder -->
+      </class> <!-- org.amazon.AmazzonTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
